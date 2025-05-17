@@ -17,11 +17,11 @@ To write a program to create a recursive function to reverse a string.
 
 ## Program:
 ```
-/*
+
 Program to implement Reverse a String
-Developed by: Asin Vardhini R
-Register Number:  212222100007
-*/
+Developed by: Lavanya M
+Register Number:  212222110021
+
 
 
 def reverse(s):
